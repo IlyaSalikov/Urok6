@@ -1,0 +1,10 @@
+С последнего урока:
+https://github.com/AlekseyHarima/react_test_gr6
+
+Задание:
+Изучить и выполнить все пункты из главы 4. Особое внимание обратить на движок EJS
+https://metanit.com/web/nodejs/4.1.php
+
+В качестве ДЗ создать небольшое приложение с использованием node + express
+Пример тутор:
+https://auth0.com/blog/create-a-simple-and-stylish-node-express-app/
