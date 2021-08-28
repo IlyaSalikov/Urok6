@@ -8,7 +8,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/", (req, res) => {
-    res.status(200).send("WHATABYTE: Food For Devs");
+    res.status(200).send("JavaScript");
 });
 
 app.get("/contact", (req, res) => {
